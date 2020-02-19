@@ -21,6 +21,11 @@ The documentation of the warc library is available at http://warc.readthedocs.or
 
 Apart from the install from pip, which will not work for this warc3 version, the
 interface as described there is unchanged.
+
+Clone or download the zip file, unzip it and enter the unzipped directory. Run the command `pip install .` to install the warc package on your computer. 
+
+see more at https://stackoverflow.com/questions/15268953/how-to-install-python-package-from-github
+and https://pip.pypa.io/en/stable/reference/pip_install/ to know more about how to do pip install from locally cloned sources.
 	
 License
 -------
@@ -39,6 +44,8 @@ Original Python2 Versions:
 
 Python3 Port:
 
+* Jay M. Patel
 * Ryan Chartier 
 * Jan Pieter Bruins Slot
 * Almer S. Tigelaar
+
